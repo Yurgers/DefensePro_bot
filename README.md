@@ -3,11 +3,11 @@
 ## Configuration
 для работы необходимо в переменные окружения:
 
-###`API_TOKEN`
+### `API_TOKEN`
 
 Токен для работы бота
 
-###`http_proxy`
+### `http_proxy`
 
 Http proxy, format http://host:port
 
